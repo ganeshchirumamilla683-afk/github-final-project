@@ -13,3 +13,4 @@ A calculator that calculates simple interest given principal, annual rate of int
 ---
 
 This project is part of the Coursera Getting Started with Git and GitHub final project (Part 1 – GitHub UI)
+(Typo fixed in README)
